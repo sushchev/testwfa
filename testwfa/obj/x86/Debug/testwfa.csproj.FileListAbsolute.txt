@@ -1,0 +1,4 @@
+C:\Users\Sushchev\Desktop\testwfa\testwfa\bin\x86\Debug\testwfa.exe.config
+C:\Users\Sushchev\Desktop\testwfa\testwfa\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sushchev\Desktop\testwfa\testwfa\obj\x86\Debug\testwfa.Properties.Resources.resources
+C:\Users\Sushchev\Desktop\testwfa\testwfa\obj\x86\Debug\testwfa.csproj.GenerateResource.Cache
