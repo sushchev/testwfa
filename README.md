@@ -24,7 +24,7 @@ You can set current position of all devices as zero position by pressing "Set" b
 
 Charts configuring:
 You can remove all points from charts by pressing "Clear" button and enable autoclear mode by checking "Autoclear" checkbox.
-When autoclear mode enable first points from the plots will be erasing with time.
+When autoclear mode is enable first points from the plots will be erasing with time.
 
 "Red button":
 Press "Stop all" button to stop all your devices.   
