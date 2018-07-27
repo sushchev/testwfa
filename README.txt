@@ -26,4 +26,4 @@ When autoclear mode enable first points from the plots will be erasing with time
 "Red button":
 Press "Stop all" button to stop all your devices.   
 
-
+!Attention! The example does not set the correct controller configuration for work with the motors, the apprpriate profile should be set before the launch of the example. The easiest way to set the correct profile is to open the controller via the XiLab software -> open "Settings" menu -> click "Restore from file" -> select the appropriate .cfg file for the used stage/motor.
